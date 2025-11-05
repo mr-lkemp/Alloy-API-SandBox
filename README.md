@@ -6,6 +6,10 @@ A simple full-stack demo using **Express** + **Svelte** to interact with the All
 
 ![App Screenshot](./screenshot.png) 
 
+## Video Demo
+
+[Watch Demo Video](./Video.mp4)
+
 
 ## Tech Stack
 | Frontend | Svelte |
