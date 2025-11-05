@@ -8,7 +8,7 @@ A simple full-stack demo using **Express** + **Svelte** to interact with the All
 
 ## Video Demo
 
-[Watch Demo Video](./Video.mp4)
+[Download Demo Video](./Video.mp4)
 
 
 ## Tech Stack
