@@ -3,7 +3,9 @@ POS for Alloy API SandBox in JS with Svelte Frontend and Express Backend
 
 A simple full-stack demo using **Express** + **Svelte** to interact with the Alloy Sandbox API.
 
+
 ![App Screenshot](./screenshot.png)
+
 
 ## Tech Stack
 | Frontend | Svelte |
